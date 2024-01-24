@@ -16,7 +16,7 @@
 
 <h4>🧰 Frameworks and libraries</h4>
 
-- Bootstrap Express.js NumPy Pandas React
+- Bootstrap Express.js NumPy Pandas matplotlib seaborn React
 
 <h4>🗄️ Databases and cloud hosting</h4>
 
