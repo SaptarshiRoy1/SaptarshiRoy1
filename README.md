@@ -14,9 +14,9 @@
 
 - C Java Python CSS HTML  JavaScript Node.js SQL
 
-<h4>🧰 Frameworks and libraries</h4>
+<h4>🧰 Frameworks and libraries and tools</h4>
 
-- Bootstrap Express.js NumPy Pandas matplotlib seaborn React
+- Bootstrap Express.js NumPy Pandas matplotlib seaborn React MSPoewrBI TallyERP9
 
 <h4>🗄️ Databases and cloud hosting</h4>
 
