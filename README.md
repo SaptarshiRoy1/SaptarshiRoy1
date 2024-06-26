@@ -20,7 +20,7 @@
 
 <h4>🗄️ Databases and cloud hosting</h4>
 
-- MongoDB MySQL GoogieHost Netlify
+- MongoDB MySQL Netlify Render GoogieHost MongoDBatlas
 
 <!---
 SaptarshiRoy1/SaptarshiRoy1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
